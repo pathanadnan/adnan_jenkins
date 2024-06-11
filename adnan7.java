@@ -6,6 +6,10 @@ class adnan7{
         System.out.println(2735);
         System.out.println("end");
         System.out.println("added one more file");
+
+        Student st=new Student();
+        //.Student();
+        st.school();
         
     }
 }
